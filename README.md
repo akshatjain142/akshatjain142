@@ -13,7 +13,7 @@ B.Tech Student and Full Stack Developer passionate about building scalable web a
 ## Tech Stack
 
 ### Languages
-Java, JavaScript, C++, SQL
+Java, JavaScript, SQL
 
 ### Frontend
 React.js, HTML, CSS, Bootstrap, Tailwind CSS
