@@ -45,22 +45,6 @@ Features:
 
 ---
 
-### CarWale
-
-A MERN stack automobile marketplace that allows users to explore and compare vehicles.
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
-
-Features:
-- Vehicle listings
-- Brand-based filtering
-- Detailed car information
-- Responsive design
-- Search and filtering functionality
-- REST API integration
-
----
-
 ### Stock Market Prediction System
 
 A MERN stack application that provides stock analysis and prediction capabilities.
